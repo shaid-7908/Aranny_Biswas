@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "tags": ["wedding"],
+    "image": "./Assets/Images/Wedding/pic7.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 8,
+    "sm": 12
+  },
+  {
+    "id": 2,
+    "tags": ["wedding"],
+    "image": "./Assets/Images/Wedding/pic15.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "category": ["All","Wedding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 3,
+    "tags": ["wedding"],
+    "image": "./Assets/Images/Wedding/pic16.jpg",
+    "title": "Coffee & Tea",
+    "path": "!#",
+    "category": ["All","Wedding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 4,
+    "tags": ["branding"],
+    "image": "./Assets/Images/Wedding/pic17.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 5,
+    "tags": ["branding", "ui-ux"],
+    "image": "./Assets/Images/Wedding/pic5.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 6
+  },
+  {
+    "id": 6,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic18.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 7,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic19.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 8,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic20.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 9,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic21.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 10,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic22.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 11,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic23.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  },
+  {
+    "id": 12,
+    "tags": ["print", "development"],
+    "image": "./Assets/Images/Wedding/pic24.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "category": ["All", "Wedding"],
+    "md": 4,
+    "sm": 12
+  }
+]

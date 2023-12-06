@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Section One",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt maiores placeat obcaecati, beatae. Facilis dolore ipsam facere perferendis deserunt commodi blanditiis nisi accusamus omnis, animi vel tenetur cumque, sed veritatis?"
+  },
+  {
+    "id": 2,
+    "title": "Section Two",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt maiores placeat obcaecati, beatae. Facilis dolore ipsam facere perferendis deserunt commodi blanditiis nisi accusamus omnis, animi vel tenetur cumque, sed veritatis?"
+  },
+  {
+    "id": 3,
+    "title": "Section Three",
+    "text": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch."
+  }
+]

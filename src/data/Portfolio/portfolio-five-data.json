@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "image": "./Assets/Images/Wedding/pic3.jpg",
+    "title": "Studio Niccolai",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 2,
+    "image": "./Assets/Images/Wedding/pic5.jpg",
+    "title": "Thenordic",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 3,
+    "image": "./Assets/Images/Wedding/pic7.jpg",
+    "title": "Coffee & Tea",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 4,
+    "image": "./Assets/Images/Wedding/pic1.jpg",
+    "title": "Fach Bureau",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+  {
+    "id": 5,
+    "image": "./Assets/Images/Wedding/pic4.jpg",
+    "title": "Collection",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+  {
+    "id": 6,
+    "image": "./Assets/Images/Wedding/pic6.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+  {
+    "id": 7,
+    "image": "./Assets/Images/Wedding/pic2.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium-thin"
+  },
+
+  {
+    "id": 9,
+    "image": "./Assets/Images/Wedding/pic9.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 8,
+    "image": "./Assets/Images/Wedding/pic8.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 10,
+    "image": "./Assets/Images/Wedding/pic10.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 11,
+    "image": "./Assets/Images/Wedding/pic11.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 12,
+    "image": "./Assets/Images/Wedding/pic12.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  },
+  {
+    "id": 13,
+    "image": "./Assets/Images/Wedding/pic13.jpg",
+    "title": "Bicker Janna",
+    "path": "!#",
+    "classes": "medium"
+  }
+]

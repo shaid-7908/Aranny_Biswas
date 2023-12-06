@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Robert_Byrd%2C_official_photo_portrait%2C_111th_Congress.jpg/800px-Robert_Byrd%2C_official_photo_portrait%2C_111th_Congress.jpg",
+    "title": "James Brewer",
+    "role": "Digital Designer",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RAMMADHAVRSS.jpg/800px-RAMMADHAVRSS.jpg",
+    "title": "Amanda Stone",
+    "role": "Lead Developer",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.shopify.com/s/files/1/0609/1299/2426/articles/VC_Profile_Pic_1_800x.jpg?v=1649911932",
+    "title": "Arthur Stewart",
+    "role": "Founder & CEO",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://media.licdn.com/dms/image/C4D22AQECmaoLDKmUhg/feedshare-shrink_800/0/1675694533239?e=1680134400&v=beta&t=3w2LJ_VRsrrj4qF5zYrbDd1RQB8jlOVA7f9mr6ZeGhg",
+    "title": "Eden Charles",
+    "role": "Art Director",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kadiyam_Sreehari.jpg/800px-Kadiyam_Sreehari.jpg",
+    "title": "Lura Rose",
+    "role": "Manager",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 2,
+        "path": "!#",
+        "title": "twitter"
+      },
+      {
+        "id": 3,
+        "path": "!#",
+        "title": "linkedin"
+      }
+    ]
+  }
+]

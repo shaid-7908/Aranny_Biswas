@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "yoga-img.jpg",
+    "color": "red",
+    "title": "Yoga",
+    "text": "Yoga classes are a great way to unwind and develop your mind and body.",
+    "path": "home-fitness"
+  },
+  {
+    "id": 2,
+    "image": "builder-img.jpg",
+    "color": "purple",
+    "title": "Body Building",
+    "text": "The discipline of bodybuilding may be harsh, but it pays off.",
+    "path": "home-fitness"
+  },
+  {
+    "id": 3,
+    "image": "fitness-img.jpg",
+    "color": "teal",
+    "title": "Fitness",
+    "text": "Our fitness and CrossFit program is designed for universal scalability.",
+    "path": "home-fitness"
+  }
+]
